@@ -1,8 +1,4 @@
-/* Arduino Security System with the Keypad and LCD 
- * Creator Mert KILIC - Mert Arduino Tutorial and Project
- * Please subscribe for support
- * Thanks
- */
+
 
 #include <LiquidCrystal.h> //include LCD library (standard library)
 #include <Keypad.h> //include keypad library - first you must install library (library link in the video description)
